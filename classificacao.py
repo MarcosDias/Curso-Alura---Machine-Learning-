@@ -22,6 +22,6 @@ total_elementos = len(X_teste)
 
 taxa_acertos = 100.0 * total_acertos / total_elementos
 
-print(taxa_acertos)
+print(taxa_acertos) #88.88888888888889
 
 
