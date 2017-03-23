@@ -5,7 +5,7 @@ def carregar_acessos():
     X = []
     Y = []
 
-    with open('data.csv', 'r') as csv_file:
+    with open('acesso.csv', 'r') as csv_file:
         leitor = csv.reader(csv_file)
 
         next(leitor)
